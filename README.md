@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning Java
 
 ### Connect with me:
-[<img align = "left" alt = "Станислав Столбенников | Instagram" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
-[<img align = "left" alt = "Станислав Столбенников | ВК" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />] [vk]
+[<img align="left" alt="Stanislav Stolbennikov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Stanislav Stolbennikov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
 
@@ -22,7 +22,7 @@
 
 
 <details>
-  <summary>: zap: Statistics: </summary>
+  <summary>:zap: Statistics: </summary>
    <img align = "left" alt = "codeSTACKr's GitHub stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SSE-programmer&langs_count=8&layout=compact" />
     <br />
     <img align = "left" alt = "codeSTACKr's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=SSE-programmer&show_icons=true" />
