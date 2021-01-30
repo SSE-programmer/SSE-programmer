@@ -25,7 +25,7 @@
   <summary>:zap: Statistics: </summary>
    <img align = "left" alt = "codeSTACKr's GitHub stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SSE-programmer&langs_count=8&layout=compact&theme=tokyonight" />
     <br />
-    <img align = "left" alt = "codeSTACKr's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=SSE-programmer&show_icons=true&layout=compact&theme=tokyonight" />
+    <img align = "left" alt = "codeSTACKr's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=SE-programmer&show_icons=true&layout=compact&theme=tokyonight" />
 </details>
 
 [instagram]: https://www.instagram.com/sse.public
