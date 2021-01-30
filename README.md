@@ -23,9 +23,9 @@
 
 <details>
   <summary>:zap: Statistics: </summary>
-   <img align = "left" alt = "codeSTACKr's GitHub stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SSE-programmer&langs_count=8&layout=compact" />
+   <img align = "left" alt = "codeSTACKr's GitHub stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SSE-programmer&langs_count=8&layout=compact&theme=tokyonight" />
     <br />
-    <img align = "left" alt = "codeSTACKr's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=SSE-programmer&show_icons=true" />
+    <img align = "left" alt = "codeSTACKr's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=SSE-programmer&show_icons=true&theme=tokyonight" />
 </details>
 
 [instagram]: https://www.instagram.com/sse.public
