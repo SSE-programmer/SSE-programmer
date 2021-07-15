@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Stas
 
-## I am a beginner developer and student
+## I am a beginner developer
 - 💪 I love writing code
 
 - 🥅 I am constantly learning new things
