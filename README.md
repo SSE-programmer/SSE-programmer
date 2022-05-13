@@ -5,7 +5,7 @@
 
 - 🥅 I am constantly learning new things
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Angular
 
 ### Connect with me:
 [<img align="left" alt="Stanislav Stolbennikov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
