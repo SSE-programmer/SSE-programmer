@@ -28,4 +28,4 @@
 </details>
 
 [instagram]: https://www.instagram.com/sse.public
-[telegram]: @sse_programmer
+[telegram]: https://t.me/@sse_programmer
