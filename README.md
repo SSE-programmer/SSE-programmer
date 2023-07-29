@@ -1,6 +1,6 @@
-### Hi 👋, I'm Stas
+### Hi 👋, I'm Stanislav
 
-## I am a beginner developer
+## I am a software engineer
 - 💪 I love writing code
 
 - 🥅 I am constantly learning new things
@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning Angular
 
 ### Connect with me:
+[<img align="left" alt="Stanislav Stolbennikov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Stanislav Stolbennikov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Stanislav Stolbennikov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
 
@@ -28,4 +28,4 @@
 </details>
 
 [instagram]: https://www.instagram.com/sse.public
-[vk]: https://vk.com/stas1996ilcha
+[telegram]: @sse_programmer
