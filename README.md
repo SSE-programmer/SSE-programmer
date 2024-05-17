@@ -21,6 +21,11 @@
 <img align = "left" alt = "typescript" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/typescript.svg" />
 <img align = "left" alt = "angular" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/angular.svg" />
 <img align = "left" alt = "rx js" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/reactivex.svg" />
+<img align = "left" alt = "ngrx" width = "26px" src = "https://ngrx.io/assets/images/badge.svg" />
+<img align = "left" alt = "gitlab" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/gitlab-light.svg" />
+<img align = "left" alt = "github" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/github-light.svg" />
+<img align = "left" alt = "webstorm" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/webstorm-light.svg" />
+<img align = "left" alt = "postman" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/postman.svg" />
 
 <br />
 <br />
