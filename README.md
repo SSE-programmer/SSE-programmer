@@ -38,4 +38,4 @@
 </details>
 
 [telegram]: https://t.me/@sse_programmer
-[linkedin]: www.linkedin.com/in/stanislav-stolbennikov-a95226228
+[linkedin]: https://www.linkedin.com/in/stanislav-stolbennikov-a95226228
