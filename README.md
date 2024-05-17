@@ -5,7 +5,7 @@
 
 - 🥅 I am constantly learning new things
 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning frontend in depth
 
 ### Connect with me:
 [<img align="left" alt="Stanislav Stolbennikov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
