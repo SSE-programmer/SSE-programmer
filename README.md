@@ -15,10 +15,12 @@
 
 ### Languages and Tools:
 
-<img align = "left" alt = "Java" width = "26px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align = "left" alt = "Java" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/typescript.svg" />
-<img align = "left" alt = "Java" width = "26px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align = "left" alt = "Java" width = "26px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align = "left" alt = "html" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/html.svg" />
+<img align = "left" alt = "css" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/css.svg" />
+<img align = "left" alt = "javascript" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/javascript.svg" />
+<img align = "left" alt = "typescript" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/typescript.svg" />
+<img align = "left" alt = "angular" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/angular.svg" />
+<img align = "left" alt = "rx js" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/reactivex" />
 
 <br />
 <br />
