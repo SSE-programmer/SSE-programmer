@@ -20,7 +20,7 @@
 <img align = "left" alt = "javascript" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/javascript.svg" />
 <img align = "left" alt = "typescript" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/typescript.svg" />
 <img align = "left" alt = "angular" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/angular.svg" />
-<img align = "left" alt = "rx js" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/reactivex" />
+<img align = "left" alt = "rx js" width = "26px" src = "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/reactivex.svg" />
 
 <br />
 <br />
