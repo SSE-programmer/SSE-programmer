@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning frontend in depth
 
 ### Connect with me:
-[<img align="left" alt="Stanislav Stolbennikov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Stanislav Stolbennikov | Telegram" width="22px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" />][telegram]
 
 <br />
 
@@ -36,5 +36,4 @@
     <img align = "left" alt = "codeSTACKr's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=SSE-programmer&show_icons=true&layout=compact&theme=tokyonight" />
 </details>
 
-[instagram]: https://www.instagram.com/sse.public
 [telegram]: https://t.me/@sse_programmer
